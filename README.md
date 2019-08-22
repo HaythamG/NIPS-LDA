@@ -9,5 +9,5 @@ we used :
 Les systèmes de traitement d’informations neuronales (NIPS) sont l’une des meilleures conférences d’apprentissage automatique au monde où des travaux novateurs sont publiés. Dans ce projet, vous analyserez une vaste collection de documents de recherche du NIPS des dix dernières années pour découvrir les dernières tendances en matière d’apprentissage automatique. Les techniques utilisées ici pour traiter de grandes quantités de données peuvent également être appliquées à d'autres jeux de données texte.
 Nous avons utilisé :
 - pandas
-- PNL: Principes de base du traitement du langage naturel en Python
+- NLP: Principes de base du traitement du langage naturel en Python
 - Scikit-Learn
